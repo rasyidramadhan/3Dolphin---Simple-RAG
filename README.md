@@ -1,4 +1,4 @@
-# Simple RAG Rasyid x 3Dolphin Project Python Development
+# Simple RAG Rasyid x 3Dolphins Project Python Development
 Implement RAG system, connect it to LLM (OpenAI GPT/HuggingFace) and Qdrant as the vector database.
 
 ## Initiation and run project
@@ -11,3 +11,4 @@ Download file code (example: main_with_cpu) and follow these commands:
 )
 6. Test on another terminal: curl http://localhost:xxxx/health
 7. Try ingest data and query.
+
